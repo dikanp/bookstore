@@ -1,9 +1,7 @@
 package main
 
-import "github.com/dikanp/users-api/app"
+import "github.com/dikanp/app"
 
 func main()  {
-	app.StartApplication() {
-
-	}
+	app.StartApplication();
 }
